@@ -86,4 +86,4 @@ exclude:
   - CNAME
   - hide
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-merlot
