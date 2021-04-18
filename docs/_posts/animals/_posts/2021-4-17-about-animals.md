@@ -2,4 +2,4 @@
 layout: post
 title: About Animals
 ---
-This is a post about animals.
+This is the original post about animals.
