@@ -85,4 +85,4 @@ exclude:
   - CNAME
   - hide
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
